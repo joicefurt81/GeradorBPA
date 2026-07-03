@@ -1,0 +1,34 @@
+================================================================================
+RELATÓRIO DE EXPORTAÇÃO - RELEXP
+SISTEMA BPA MAGNÉTICO - DATASUS v0414
+================================================================================
+Arquivo: teste_saida.txt
+Número de Controle: 2042
+Data/Hora Geração: 01/07/2026 00:37:55
+--------------------------------------------------------------------------------
+ESTATÍSTICAS:
+  Registros BPA Consolidado: 5
+  Registros BPA Individualizado: 5
+  Total de Registros: 10
+--------------------------------------------------------------------------------
+DETALHAMENTO BPA CONSOLIDADO:
+  CNES       Estabelecimento                Competência Procedimentos Qtde  
+  ----------------------------------------------------------------------
+  1234567    Centro de Saúde da Família     202412   1            15    
+  2345678    Unidade Básica de Saúde        202412   1            20    
+  3456789    Clínica da Mulher              202412   1            10    
+  4567890    Posto de Saúde Rural           202412   1            5     
+  5678901    Centro de Vacinação            202412   1            30    
+--------------------------------------------------------------------------------
+DETALHAMENTO BPA INDIVIDUALIZADO:
+  CNES       Estabelecimento                Competência Atendimentos Qtde  
+  ----------------------------------------------------------------------
+  1234567    Centro de Saúde da Família     202412   2            3     
+  2345678    Unidade Básica de Saúde        202412   1            1     
+  3456789    Clínica da Mulher              202412   1            1     
+  4567890    Posto de Saúde Rural           202412   1            2     
+--------------------------------------------------------------------------------
+NENHUM ERRO ENCONTRADO.
+--------------------------------------------------------------------------------
+FIM DO RELATÓRIO RELEXP
+================================================================================

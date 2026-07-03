@@ -1,0 +1,27 @@
+================================================================================
+RELATÓRIO DE EXPORTAÇÃO - RELEXP
+SISTEMA BPA MAGNÉTICO - DATASUS v0414
+================================================================================
+Arquivo: bpa_saida.txt
+Número de Controle: 000551
+Data/Hora Geração: 30/06/2026 00:36:48
+--------------------------------------------------------------------------------
+ESTATÍSTICAS:
+  Registros BPA Consolidado: 1
+  Registros BPA Individualizado: 1
+  Total de Registros: 2
+--------------------------------------------------------------------------------
+DETALHAMENTO BPA CONSOLIDADO:
+  CNES       Estabelecimento                Competência Procedimentos Qtde  
+  ----------------------------------------------------------------------
+  1234567    UNIDADE DE SAUDE EXEMPLO       202605   1            1     
+--------------------------------------------------------------------------------
+DETALHAMENTO BPA INDIVIDUALIZADO:
+  CNES       Estabelecimento                Competência Atendimentos Qtde  
+  ----------------------------------------------------------------------
+  1234567    UNIDADE DE SAUDE EXEMPLO       202605   1            1     
+--------------------------------------------------------------------------------
+NENHUM ERRO ENCONTRADO.
+--------------------------------------------------------------------------------
+FIM DO RELATÓRIO RELEXP
+================================================================================
